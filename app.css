@@ -1,0 +1,13 @@
+body {
+	background-color: rgb(105, 38, 249);
+	color: white;
+}
+
+h1 {
+    font-size: 10rem;
+    font-family: Montserrat;
+}
+
+.letter {
+    transition: color 1000ms;
+}
